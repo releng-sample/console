@@ -20,6 +20,7 @@
     <info 
         organisation="org.example"
         module="console"
+        branch="feature/gdtk-84"
         status="integration"/>
     <dependencies>
 
